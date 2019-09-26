@@ -1,0 +1,11 @@
+{
+  "name": "either-async",
+  "version": "1.0.1",
+  "description": "An asynchronous either monad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dimitris papadimitriou",
+  "license": "MIT"
+}
