@@ -2,8 +2,7 @@
 # Async-Either
 https://medium.com/@dimpapadim3/async-functional-error-handling-9332dfe9f78c
  
-####Javascript　
-
+## Example use
 ```javascript
 
 require("either-async")
